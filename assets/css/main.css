@@ -1679,11 +1679,17 @@ input, select, textarea {
     font-size: 3em;
   
     font-weight: bold;
-    color: #115ab2;
+    color: #57b211;
     letter-spacing: 3px;
     text-shadow: 2px 2px #545454;
 }
 
 .templatemo_title span {
     color: #BBBBBB;
+}
+.templatemo_subtitle {
+    margin-left: 25px;
+    font-size: 1em;
+    text-shadow: 1px 1px #545454;
+    color: #999999;
 }
